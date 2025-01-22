@@ -20,3 +20,8 @@
 - Ser exitoso
 ## Una frase que me define
 - "Tengo que lograr mis metas"
+
+```markdown
+## Algo divertido sobre mí
+- No me gustan ver peliculas, ni series, al año miro 2 peliculas maximo
+```
